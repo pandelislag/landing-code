@@ -13,7 +13,7 @@
 - [Author](#author)
 
 ## Overview
-![](images/App-screenshot.jpg)
+![](images/template.png)
 ### The challenge
 
 It is a basic understanding of HTML and CSS. The challenge is to build out this landing and get it looking beautiful with nice UI and mobile responsive.
