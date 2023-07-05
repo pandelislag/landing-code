@@ -13,7 +13,7 @@
 - [Author](#author)
 
 ## Overview
-<a href="https://pandelislag.github.io/landing-code" target="_blank"><img src="images/template1.png"></a>
+![](/images/template1.png)
 
 ### The challenge
 
