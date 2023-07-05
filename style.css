@@ -46,7 +46,7 @@ a {
 
 /* Menu Button */
 .btn {
-  padding: 0.3rem;
+  padding: 0.09rem;
   background-color: rgb(176, 133, 215);
   color: #fff;
   border-radius: 1rem;
@@ -65,7 +65,7 @@ a {
   height: 85vh;
 }
 .content-img {
-  background-image: url("images/web-design.jpg");
+  background-image: url("images/bgImage.jpg");
   opacity: 0.6;
   height: 83%;
   width: auto;
@@ -147,13 +147,14 @@ a {
   margin-bottom: 0.5rem;
 }
 .container-features img {
-  width: 2.5rem;
+  width: 2.2rem;
 }
 .container-features .heading {
   color: rgb(235, 100, 100);
+  font-size: 1.6rem;
 }
 .container-features .para {
-  line-height: 1.3;
+  line-height: 1.4;
   width: 80%;
   text-align: left;
 }
@@ -183,7 +184,7 @@ a {
 }
 .testim .review {
   text-align: left;
-  width: 50%;
+  width: 100%;
 }
 /* Footer */
 .foot {
@@ -207,96 +208,4 @@ a {
   font-weight: bold;
   cursor: pointer;
   text-transform: uppercase;
-}
-/* Media queries */
-@media screen and (max-width: 730px) {
-  /* Logo */
-  .logo {
-    font-size: 1.5rem;
-  }
-
-  /* Navbar */
-  .navbar .list {
-    gap: 0.8rem;
-    font-size: 1rem;
-  }
-
-  /* Menu Button */
-  .btn {
-    padding: 0.2rem;
-    font-size: 0.6rem;
-  }
-  /* Main Content */
-  .main-content {
-    height: 75vh;
-  }
-  .content-text h1 {
-    font-size: 1.6rem;
-    margin-bottom: 0.8rem;
-    line-height: 1.2;
-  }
-  .content-text p {
-    font-size: 0.8rem;
-    margin-bottom: 0.5rem;
-  }
-
-  .content-text button {
-    padding: 0.5rem;
-    margin-top: 0.5rem;
-  }
-  .content-img {
-    height: 89%;
-  }
-  /* Section Features */
-  .features {
-    height: 14rem;
-    margin-top: -2rem;
-  }
-  .features .title-features {
-    text-align: center;
-    font-size: 1.2rem;
-    font-weight: 600;
-    margin-bottom: 0.4px;
-    color: #9f5050;
-  }
-  .title-features .heading-two {
-    font-size: 1.6rem;
-  }
-
-  .icon-container {
-    margin-right: 1.2rem;
-  }
-  .container-features img {
-    width: 1.7rem;
-  }
-  .container-features .heading {
-    color: rgb(235, 100, 100);
-    font-size: 0.8rem;
-  }
-  .container-features .para {
-    width: 88%;
-    font-size: 0.7rem;
-  }
-  /* Testimonials */
-  .testimonials {
-    height: 12rem;
-  }
-  .testim img {
-    width: 2.5rem;
-  }
-  .testim .name {
-    font-weight: bold;
-    font-size: 0.7rem;
-  }
-  .testim .review {
-    font-size: 0.8rem;
-    width: 100%;
-  }
-  /* Footer */
-  .foot img {
-    width: 1rem;
-  }
-  .social {
-    font-size: 0.8rem;
-  }
 }

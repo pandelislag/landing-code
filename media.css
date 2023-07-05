@@ -1,0 +1,97 @@
+@media screen and (max-width: 730px) {
+  /* Logo */
+  .logo {
+    font-size: 0.8rem;
+    text-align: center;
+    margin-right: 0.8rem;
+  }
+
+  /* Navbar */
+  .navbar .list {
+    gap: 0.8rem;
+    font-size: 1rem;
+  }
+
+  /* Menu Button */
+  .btn {
+    padding: 0.09rem;
+    font-size: 0.6rem;
+    margin: 8px;
+  }
+  /* Main Content */
+  .main-content {
+    height: 75vh;
+  }
+  .content-text h1 {
+    font-size: 1.6rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.2;
+  }
+  .content-text p {
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .content-text button {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  .content-img {
+    height: 89%;
+  }
+  /* Section Features */
+  .features {
+    height: 14rem;
+    margin-top: -2rem;
+  }
+  .features .title-features {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 0.4px;
+    color: #9f5050;
+  }
+  .title-features .heading-two {
+    font-size: 1.6rem;
+  }
+
+  .icon-container {
+    margin-right: 1.2rem;
+  }
+  .container-features img {
+    width: 1rem;
+  }
+  .container-features .heading {
+    color: rgb(235, 100, 100);
+    font-size: 0.85rem;
+  }
+  .container-features .para {
+    width: 90%;
+    font-size: 0.7rem;
+  }
+  /* Testimonials */
+  .testimonials {
+    height: 12rem;
+  }
+  .testim img {
+    width: 1.5rem;
+  }
+  .testim .name {
+    font-weight: bold;
+    font-size: 0.7rem;
+  }
+  .testim .review {
+    font-size: 0.8rem;
+    width: 100%;
+  }
+  /* Footer */
+  .foot img {
+    width: 0.8rem;
+  }
+  .social {
+    font-size: 0.6rem;
+  }
+  .social a {
+    margin-left: -0.6rem;
+  }
+}
