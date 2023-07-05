@@ -13,7 +13,7 @@
 - [Author](#author)
 
 ## Overview
-![](images/template.png)
+![](images/template.png href="https://pandelislag.github.io/landing-code/")
 ### The challenge
 
 It is a basic understanding of HTML and CSS. The challenge is to build out this landing and get it looking beautiful with nice UI and mobile responsive.
