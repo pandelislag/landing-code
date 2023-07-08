@@ -31,6 +31,7 @@ It is a basic understanding of HTML and CSS. The challenge is to build out this 
 - HTML5 
 - CSS 
 - Flexbox
+- Media Queries
 
 ### What I learned
 
