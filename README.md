@@ -39,7 +39,7 @@ This project helps me improve my coding skills by building this app. I learn how
 
 ### Continued development
 
-In future projects i would like to learn more consepts about vannilla Js and try out new techniques. Also i want to learn some libraries  like css, bootstrap5 and Sass. Ny purpose is to make my code more usefull and more effecient. 
+In future projects i would like to learn more consepts about vannilla Js and try out new techniques. Also i want to learn some libraries  like css, bootstrap5 and Sass. My purpose is to make my code more usefull and more effecient. 
 
 
 ### Useful resources
