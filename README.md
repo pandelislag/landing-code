@@ -17,7 +17,7 @@
 
 ### The challenge
 
-It is a basic understanding of HTML and CSS. The challenge is to build out this landing and get it looking beautiful with nice UI and mobile responsive.
+This is my first project. The purpsose is to understanding technologies of HTML and CSS. The challenge is a beautiful landing page  and a nice UI with mobile responsive.
 
 ### Links
 
@@ -35,11 +35,11 @@ It is a basic understanding of HTML and CSS. The challenge is to build out this 
 
 ### What I learned
 
-This project help me improve my coding skills by building this realistic project. I learn how to search some basic information about html and css like margin, padding and fonts. I also tried to understand the technology of flexbox and how useful this tool is to create a responsive website.
+This project helps me improve my coding skills by building this app. I learn how to search some basic information like margin, padding and fonts. I also tried to understand the technology of flexbox and how useful this tool is to create a responsive website.
 
 ### Continued development
 
-In future projects i would like to learn more consepts about vannilla Js and try out new techniques. Also i want to try learn some libraries of css like bootstrap5 and Sass to make my code more usefull and more effecient. 
+In future projects i would like to learn more consepts about vannilla Js and try out new techniques. Also i want to learn some libraries  like css, bootstrap5 and Sass. Ny purpose is to make my code more usefull and more effecient. 
 
 
 ### Useful resources
